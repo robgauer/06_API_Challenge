@@ -1,0 +1,6 @@
+,Weather City,Cloudiness,Country,Date,Humidity,Latitude,Longitude,Maximum Temperature,Wind Speed,Hotel Name
+64,trinidad,0,BO,1587252071,57,-14.83,-64.9,78.8,4.7,Hotel Piesta
+136,concordia sagittaria,0,AR,1587252147,59,-31.39,-58.02,72.0,1.99,Palmar Hotel Casino
+244,rayagada,0,IN,1587252292,69,19.17,83.42,76.64,1.28,"Hotel Swagath, Rayagada"
+251,myanaung,0,MM,1587252358,57,18.28,95.32,74.01,2.57,Taung Hlay Khar
+358,marandahalli,0,IN,1587252506,70,12.4,78.0,72.45,0.69,"""JJ 4 NEST"""
